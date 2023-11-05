@@ -13,5 +13,6 @@ def fibonacci(n):
 # faire une page
 # Exemple d'utilisation
 n = 10
+m =
 resultat = fibonacci(n)
 print(f"Les {n} premiers termes de la suite de Fibonacci sont : {resultat}")
