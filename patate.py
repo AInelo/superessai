@@ -16,3 +16,4 @@ n = 10
 m =
 resultat = fibonacci(n)
 print(f"Les {n} premiers termes de la suite de Fibonacci sont : {resultat}")
+w = 20
