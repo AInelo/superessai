@@ -10,7 +10,7 @@ def fibonacci(n):
         while len(fib_sequence) < n:
             fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
         return fib_sequence
-# 
+# faire
 # Exemple d'utilisation
 n = 10
 resultat = fibonacci(n)
