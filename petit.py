@@ -32,5 +32,5 @@ def fibonaccia(n):
 
 # Exemple d'utilisation
 n = 10
-resultat = fibonaccia(n)
+resultat = fibonacci(n)
 print(f"Les {n} premiers termes de la suite de Fibonacci sont : {resultat}")
