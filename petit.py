@@ -18,10 +18,6 @@ print(f"Les {n} premiers termes de la suite de Fibonacci sont : {resultat}")
 
 
 
-
-
-
-
 def fibonacci(n):
     if n <= 0:
         return "Entrez un entier positif pour calculer la suite de Fibonacci."
