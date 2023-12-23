@@ -28,6 +28,7 @@ def fibonacci(n):
             fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
         return fib_sequence
 
+
 # Exemple d'utilisation
 n = 10
 resultat = fibonacci(n)
