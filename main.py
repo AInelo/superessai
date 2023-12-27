@@ -30,7 +30,3 @@ def fibonacci2(n):
             fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
         return fib_sequence
 
-# Exemple d'utilisation
-n = 10
-resultat = fibonacci(n)
-print(f"Les {n} premiers termes de la suite de Fibonacci lui même sont : {resultat}")
