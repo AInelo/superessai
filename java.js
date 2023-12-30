@@ -1,2 +1,3 @@
 const tru = "llel";
-const app = "welo"
+const App = "welo";
+var app = "lass";
