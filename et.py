@@ -12,6 +12,8 @@ def fibonacci(n):
         return fib_sequence
 
 # Exemple d'utilisation
-n = 10
+n = 12
 resultat = fibonacci(n)
 print(f"Les {n} premiers termes de la suite de Fibonacci sont : {resultat}")
+
+
