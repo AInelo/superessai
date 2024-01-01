@@ -33,4 +33,4 @@ def fibonacci2(n):
 # Exemple d'utilisation
 n = 10
 resultat = fibonacci(n)
-print(f"Les {n} premiers termes de la suite de Fibonacci sont : {resultat}")
+print(f"Les {n} premiers termes de la suite de Fibonacci lui même sont : {resultat}")
