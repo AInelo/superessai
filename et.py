@@ -15,5 +15,3 @@ def fibonacci(n):
 n = 12
 resultat = fibonacci(n)
 print(f"Les {n} premiers termes de la suite de Fibonacci sont : {resultat}")
-
-
